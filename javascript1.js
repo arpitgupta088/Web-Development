@@ -13,3 +13,5 @@ else{
     console.log("not blast")
 }
 console.log("your no. is "+a)
+
+
